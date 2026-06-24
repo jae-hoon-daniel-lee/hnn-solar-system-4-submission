@@ -45,7 +45,7 @@ The codebase contains dataset preprocessing, model definitions, training and eva
 - `commons/` — shared utilities and model definitions (HNN variants, energy utils, data loaders).
 - `data_ode/` — preprocessed ODE datasets for multi-scale and uni-scale experiments.
 - `experiment_*` — training and evaluation runs, notebooks and checkpoints for different model families and ablations.
-- `pdfs/`, `static/` — initial draft and static assets.
+- `static/` — static assets.
 
 ## 🧭 How it proceeded
 The project started by evaluating baseline HNNs on a dense 10-body Solar System ODE dataset. Recurrent issues were identified: optimization stagnation and early inner-planet ejections. To mitigate these, two orthogonal modifications were developed and evaluated:
