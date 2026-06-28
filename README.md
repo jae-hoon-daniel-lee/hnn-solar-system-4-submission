@@ -119,9 +119,9 @@ To maintain the double-blind review process, citation details and the link to th
 
 ## 🤝  External Codebases
 
-The dense dataset (dt=0.0005) utilized in this work was synthetically generated using a 12th-order Yoshida symplectic integrator. The code is available at: https://anonymous.4open.science/r/Yoshida-Symplectic-Integrator-2787.
+The dense dataset (dt=0.0005) utilized in this work was synthetically generated using a 12th-order Yoshida symplectic integrator. The code is available at: <https://anonymous.4open.science/r/Yoshida-Symplectic-Integrator-2787>.
 
-SLL-HNN, the satellite contribution to this work, is available at: https://anonymous.4open.science/r/Separable-Latent-Linear-Hamiltonian-Neural-Network-303F.
+SLL-HNN, the satellite contribution to this work, is available at: <https://anonymous.4open.science/r/Separable-Latent-Linear-Hamiltonian-Neural-Network-303F>.
 
 If you use this work in your research, please cite the accompanying manuscript (preprint or published DOI when available).
 ---
