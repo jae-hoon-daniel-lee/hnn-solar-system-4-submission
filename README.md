@@ -117,10 +117,12 @@ This repository is licensed under the MIT License — see the `LICENSE` file for
 
 To maintain the double-blind review process, citation details and the link to the permanent repository will be made publicly available upon acceptance of the manuscript.
 
-## 🤝 Collaborators & External Codebases
+## 🤝  External Codebases
 
-The dense dataset (dt=0.0005) utilized in this work was synthetically generated using a 12th-order Yoshida symplectic integrator. 
+The dense dataset (dt=0.0005) utilized in this work was synthetically generated using a 12th-order Yoshida symplectic integrator. The code is available at: https://anonymous.4open.science/r/Yoshida-Symplectic-Integrator-2787.
 
-To comply with double-blind review guidelines, direct links to the public implementations of the integrator and the accompanying satellite configurations have been temporarily omitted from this readme. Anonymized versions of the core execution logic are included directly within this submission package for review. Full credits and links to the public external repositories will be restored in the camera-ready version.
+SLL-HNN, the satellite contribution to this work, is available at: https://anonymous.4open.science/r/Separable-Latent-Linear-Hamiltonian-Neural-Network-303F.
+
+If you use this work in your research, please cite the accompanying manuscript (preprint or published DOI when available).
 ---
 
